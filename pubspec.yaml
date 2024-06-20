@@ -1,0 +1,13 @@
+name: my_first_game
+description: First Flame game
+version: 0.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.0.0
+  flutter: ^3.13.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.18.0
